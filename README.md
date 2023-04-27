@@ -6,10 +6,10 @@ In this README, you'll find an overview of my background, my technical skills, a
 Let's get started!
 
 ## Technical Skills
--Languages: C, C++, JavaScript, HTML, CSS
--Frameworks/Libraries: React, Angular, Vue.js, Django
--Version Control: Git and GitHub
--Other Tools: Node.js, Webpack, Bootstrap, and Docker
+- Languages: C, C++, JavaScript, HTML, CSS
+- Frameworks/Libraries: React, Angular, Vue.js, Django
+- Version Control: Git and GitHub
+- Other Tools: Node.js, Webpack, Bootstrap, and Docker
 ## Projects
 
 My best projects at 42Quebec:
