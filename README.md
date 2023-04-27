@@ -26,5 +26,5 @@ My best projects at 42Quebec:
 Connect with Me
 Feel free to connect with me through any of the following platforms:
 
-LinkedIn: [ast-jean]](https://www.linkedin.com/in/ast-jean/)
+LinkedIn: [ast-jean](https://www.linkedin.com/in/ast-jean/)
 Email: adam.stjean.lejeune@gmail.com
