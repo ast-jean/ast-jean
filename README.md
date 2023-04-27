@@ -28,4 +28,3 @@ Feel free to connect with me through any of the following platforms:
 - LinkedIn: [ast-jean](https://www.linkedin.com/in/ast-jean/)
 - Email: adam.stjean.lejeune@gmail.com
 
-<img src="https://github-readme-stats.vercel.app/api?username=ast-jean&show_icons=true"/>
