@@ -6,26 +6,23 @@ In this README, you'll find an overview of my background, my technical skills, a
 Let's get started!
 
 ## Technical Skills
-![C](https://img.shields.io/badge/-C-000000?style=flat&logo=c)
-![C++](https://img.shields.io/badge/-C++-000000?style=flat&logo=c%2B%2B)
-![React](https://img.shields.io/badge/-React-000000?style=flat&logo=react)
-![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
-![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=flat&logo=typescript)
-![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=postgresql)
+![C](https://img.shields.io/badge/-C-444444?style=for-the-badge&logo=c)
+![C++](https://img.shields.io/badge/-C++-444444?style=for-the-badge&logo=c%2B%2B)
+![React](https://img.shields.io/badge/-React-444444?style=for-the-badge&logo=react)
+![JavaScript](https://img.shields.io/badge/-JavaScript-444444?style=for-the-badge&logo=javascript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-444444?style=for-the-badge&logo=typescript)
+![SQL](https://img.shields.io/badge/-SQL-444444?style=for-the-badge&logo=postgresql)
 
-##### Some of the technologies I have worked with
+##### Technologies
 
-![Git](https://img.shields.io/badge/-Git-222222?style=flat&logo=git&logoColor=F05032)
-![GitHub](https://img.shields.io/badge/-GitHub-222222?style=flat&logo=github&logoColor=181717)
-![Linux](https://img.shields.io/badge/-Linux-222222?style=flat&logo=linux&logoColor=FCC624)
-![Node.js](https://img.shields.io/badge/-Node.js-222222?style=flat&logo=node.js&logoColor=339933)
-![Amazon Web Services](https://img.shields.io/badge/-Amazon%20Web%20Services-222222?style=flat-square&logo=Amazon-Web-Service)
-![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
+![Git](https://img.shields.io/badge/-Git-444444?style=for-the-badge&logo=git&logoColor=White)
+![GitHub](https://img.shields.io/badge/-GitHub-444444?style=for-the-badge&logo=github&logoColor=White)
+![Linux](https://img.shields.io/badge/-Linux-444444?style=for-the-badge&logo=linux&logoColor=White)
+![Node.js](https://img.shields.io/badge/-Node.js-444444?style=for-the-badge&logo=node.js&logoColor=White)
+![Amazon Web Services](https://img.shields.io/badge/-Amazon%20Web%20Services-444444?style=for-the-badge&logo=Amazon-Web-Service)
+![Docker](https://img.shields.io/badge/-Docker-444444?style=for-the-badge&logo=docker&logoColor=White)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-444444?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-- Languages: C, C++, JavaScript, HTML, CSS
-- Frameworks/Libraries: React, Angular, Vue.js, Django
-- Version Control: Git and GitHub
-- Other Tools: Node.js, Webpack, Bootstrap, and Docker
 ## Projects
 
 My best projects at 42Quebec:
