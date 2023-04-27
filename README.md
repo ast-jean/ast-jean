@@ -1,22 +1,22 @@
-##Introduction
+## Introduction
 Hello! My name is Adam, and I'm a student at 42Quebec. I'm an aspiring web developer with a strong passion for technology, creativity, and problem-solving. I'm always eager to learn new things and improve my skills in this ever-evolving industry. In this README, you'll find an overview of my background, my technical skills, and my professional goals. Let's get started!
 
-##Background
+## Background
 
 I started my journey in web development at 42Quebec, a progressive programming school that offers a unique, project-based learning experience. At 42Quebec, I've had the opportunity to work on various challenging projects, collaborate with my peers, and develop essential problem-solving and teamwork skills.
 
 Before joining 42Quebec, I had a background in customer service and industrial manufacturing. My diverse experiences have contributed to my growth as a developer and have given me a unique perspective on the world of technology.
-##Technical Skills
+## Technical Skills
 
 Throughout my time at 42Quebec, I've become proficient in several programming languages, tools, and frameworks. Here's an overview of my technical skill set:
 
-    -Languages: C, C++, JavaScript, HTML, CSS
-    -Frameworks/Libraries: React, Angular, Vue.js, Django
-    -Version Control: Git and GitHub
-    -Other Tools: Node.js, Webpack, Bootstrap, and Docker
+-Languages: C, C++, JavaScript, HTML, CSS
+-Frameworks/Libraries: React, Angular, Vue.js, Django
+-Version Control: Git and GitHub
+-Other Tools: Node.js, Webpack, Bootstrap, and Docker
 
 While these are my current skills, I'm constantly exploring new technologies and looking for ways to expand my expertise.
-##Projects
+## Projects
 
 I've had the privilege to work on several interesting projects during my time at 42Quebec. Here are a few highlights:
 
@@ -26,12 +26,12 @@ I've had the privilege to work on several interesting projects during my time at
     
 Feel free to check out my GitHub profile for more information about my projects and the source code.
 
-###Personal projects
+### Personal projects
 - I am working right now on a project for a construction business. The project is a Web application build on React with javascript and typescript, using mongoDb, designed to simplify the process of creating machined parts in the construction industry. I'm happy to share about the project without disclosing to much information
 -
 
 
-##Professional Goals
+## Professional Goals
 
 As an ambitious web developer, I'm continuously seeking opportunities to grow my skills and advance my career. My current goals include:
 
