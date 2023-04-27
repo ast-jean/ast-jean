@@ -28,17 +28,6 @@ Feel free to check out my GitHub profile for more information about my projects 
 
 ### Personal projects
 - I am working right now on a project for a construction business. The project is a Web application build on React with javascript and typescript, using mongoDb, designed to simplify the process of creating machined parts in the construction industry. I'm happy to share about the project without disclosing to much information
--
-
-
-## Professional Goals
-
-As an ambitious web developer, I'm continuously seeking opportunities to grow my skills and advance my career. My current goals include:
-
-    -Expanding my knowledge of web development technologies and best practices
-    -Gaining experience with cloud platforms such as AWS, Azure, and Google Cloud
-    -Earning relevant certifications in web development and related technologies
-    -Finding a full-time position or freelance opportunities in the field of web development
 
 Connect with Me
 
