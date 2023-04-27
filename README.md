@@ -1,5 +1,8 @@
 ## Introduction
-Hello! My name is Adam, and I'm a student at 42Quebec. I'm an aspiring web developer with a strong passion for technology, creativity, and problem-solving. I'm always eager to learn new things and improve my skills in this ever-evolving industry. In this README, you'll find an overview of my background, my technical skills, and my professional goals. Let's get started!
+My name is Adam, and I'm a student at 42Quebec. 
+I'm an aspiring web developer.
+In this README, you'll find an overview of my background, my technical skills, and my professional goals. 
+Let's get started!
 
 ## Background
 
