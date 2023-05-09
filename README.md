@@ -27,7 +27,7 @@ Let's get started!
 
 My best projects at 42Quebec:
 
-- [MiniRT](https://gitfront.io/r/ast-jean/mWxJc7eLbA3F/MiniRT/)): The MiniRT project is a minimalist ray-tracing engine built using fixed-point arithmetic in C. This compact yet powerful engine renders 3D scenes with realistic lighting and shadows, while leveraging the precision and performance benefits of fixed-point number representation. Designed with simplicity and efficiency in mind, MiniRT demonstrates the potential of ray-tracing techniques in resource-constrained environments, using the new updated Codam's version of the MLX42.
+- [MiniRT](https://gitfront.io/r/ast-jean/mWxJc7eLbA3F/MiniRT/): The MiniRT project is a minimalist ray-tracing engine built using fixed-point arithmetic in C. This compact yet powerful engine renders 3D scenes with realistic lighting and shadows, while leveraging the precision and performance benefits of fixed-point number representation. Designed with simplicity and efficiency in mind, MiniRT demonstrates the potential of ray-tracing techniques in resource-constrained environments, using the new updated Codam's version of the MLX42.
 
 - [Minishell](https://gitfront.io/r/ast-jean/JbttmM2pLdyT/minishell/): Minishell is a lightweight, custom-built Unix shell implemented in C. It provides a minimalistic, user-friendly command-line interface, allowing users to execute common shell commands and navigate the file system. By implementing core shell functionalities from scratch, Minishell offers a unique opportunity to gain in-depth understanding of shell programming and Unix system calls. Perfect for educational purposes or as a foundation for more advanced shell projects, Minishell showcases the power of simplicity in a user-friendly package.
 
