@@ -37,7 +37,8 @@ My best projects at 42Quebec:
 - I am working right now on a project for a construction business. The project is a Web application build on React with javascript and typescript, using mongoDb, designed to simplify the process of creating machined parts in the construction industry. I'm happy to share about the project without disclosing to much information.
 
 ### Connect with Me
-Feel free to connect with me through any of the following platforms:
-![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white): [ast-jean](https://www.linkedin.com/in/ast-jean/)
+Feel free to connect with me through any of the following platforms: <\b>
+![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white): 
+[ast-jean](https://www.linkedin.com/in/ast-jean/)
 Email: adam.stjean.lejeune@gmail.com
 
