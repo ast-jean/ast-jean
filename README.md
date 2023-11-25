@@ -1,6 +1,6 @@
 ## Introduction
 My name is Adam, and I'm a student at 42Quebec. 
-I'm an aspiring web developer.
+I'm an aspiring developer.
 In this README, you'll find an overview of my background, my technical skills, and my professional goals. 
 
 Let's get started!
@@ -27,7 +27,7 @@ Let's get started!
 
 My best projects at 42Quebec:
 
-- [MiniRT](https://gitfront.io/r/ast-jean/Zsq35RGjgD6x/MiniRT/): The MiniRT project is a minimalist ray-tracing engine built using fixed-point arithmetic in C. This compact yet powerful engine renders 3D scenes with realistic lighting and shadows, while leveraging the precision and performance benefits of fixed-point number representation. Designed with simplicity and efficiency in mind, MiniRT demonstrates the potential of ray-tracing techniques in resource-constrained environments, using the new updated Codam's version of the MLX42.
+- [MiniRT](https://github.com/ast-jean/MiniRT): The MiniRT project is a minimalist ray-tracing engine built using fixed-point arithmetic in C. This compact yet powerful engine renders 3D scenes with realistic lighting and shadows, while leveraging the precision and performance benefits of fixed-point number representation. Designed with simplicity and efficiency in mind, MiniRT demonstrates the potential of ray-tracing techniques in resource-constrained environments, using the new updated Codam's version of the MLX42.
 
 - [Minishell](https://github.com/ast-jean/minishell/): Minishell is a lightweight Unix shell implemented in C.
 
