@@ -10,21 +10,22 @@ CV: https://docs.google.com/document/d/1od-1swFhU7LiszXiIUD2TB3_aTWGSY0hf5SBdpYu
 ## Technical Skills
 ![C](https://img.shields.io/badge/-C-444444?style=for-the-badge&logo=c)
 ![C++](https://img.shields.io/badge/-C++-444444?style=for-the-badge&logo=c%2B%2B)
-![React](https://img.shields.io/badge/-React-444444?style=for-the-badge&logo=react)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-444444?style=for-the-badge&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-444444?style=for-the-badge&logo=typescript)
 ![Python](https://img.shields.io/badge/-PYTHON-444444?style=for-the-badge&logo=python)
 ![SQL](https://img.shields.io/badge/-SQL-444444?style=for-the-badge&logo=postgresql)
 
-##### Technologies
+## Technologies
 
 ![Git](https://img.shields.io/badge/-Git-444444?style=for-the-badge&logo=git&logoColor=White)
 ![GitHub](https://img.shields.io/badge/-GitHub-444444?style=for-the-badge&logo=github&logoColor=White)
 ![Linux](https://img.shields.io/badge/-Linux-444444?style=for-the-badge&logo=linux&logoColor=White)
 ![Node.js](https://img.shields.io/badge/-Node.js-444444?style=for-the-badge&logo=node.js&logoColor=White)
-![Amazon Web Services](https://img.shields.io/badge/-Amazon%20Web%20Services-444444?style=for-the-badge&logo=Amazon-Web-Service)
+![AWS](https://img.shields.io/badge/-AWS-444444?style=for-the-badge&logo=AWS)
 ![Docker](https://img.shields.io/badge/-Docker-444444?style=for-the-badge&logo=docker&logoColor=White)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-444444?style=for-the-badge&logo=bootstrap&logoColor=white)
+![React](https://img.shields.io/badge/-React-444444?style=for-the-badge&logo=react)
+![Django](https://img.shields.io/badge/-Django-444444?style=for-the-badge&logo=django&logoColor=White)
 
 ## Projects
 
