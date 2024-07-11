@@ -13,7 +13,7 @@ CV: https://docs.google.com/document/d/1od-1swFhU7LiszXiIUD2TB3_aTWGSY0hf5SBdpYu
 ![JavaScript](https://img.shields.io/badge/-JavaScript-444444?style=for-the-badge&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-444444?style=for-the-badge&logo=typescript)
 ![Python](https://img.shields.io/badge/-PYTHON-444444?style=for-the-badge&logo=python)
-![SQL](https://img.shields.io/badge/-SQL-444444?style=for-the-badge&logo=postgresql)
+![POSTGRESQL](https://img.shields.io/badge/-POSTGRESQL-444444?style=for-the-badge&logo=postgresql)
 
 ## Technologies
 
