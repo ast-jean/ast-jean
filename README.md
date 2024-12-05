@@ -29,16 +29,7 @@ CV: https://docs.google.com/document/d/1od-1swFhU7LiszXiIUD2TB3_aTWGSY0hf5SBdpYu
 
 ## Projects
 
-My best projects at 42Quebec:
-
-- [MiniRT](https://github.com/ast-jean/MiniRT): The MiniRT project is a minimalist ray-tracing engine built using fixed-point arithmetic in C. This compact yet powerful engine renders 3D scenes with realistic lighting and shadows, while leveraging the precision and performance benefits of fixed-point number representation. Designed with simplicity and efficiency in mind, MiniRT demonstrates the potential of ray-tracing techniques in resource-constrained environments, using the new updated Codam's version of the MLX42.
-
-- [Minishell](https://github.com/ast-jean/minishell/): Minishell is a lightweight Unix shell implemented in C.
-
-- [SoLong](): SoLong is a captivating 2D tile-based game developed in C, offering players an engaging, visually appealing experience in a customisable labyrinthine world. The project features smooth character movement, object interactions and animations all brought together by a minimalist graphical user interface. Using the MLX42 graphical library.
-
-### Personal projects
-- I am working right now on a project for a construction business. The project is a Web application build on React with javascript and typescript, using mongoDb, designed to simplify the process of creating machined parts in the construction industry. I'm happy to share about the project without disclosing to much information.
+View my portfolio here! adam.somewhat.ca
 
 ### Connect with Me
 Feel free to connect with me through any of the following platforms: \
