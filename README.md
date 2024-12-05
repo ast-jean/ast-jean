@@ -29,7 +29,7 @@ CV: https://docs.google.com/document/d/1od-1swFhU7LiszXiIUD2TB3_aTWGSY0hf5SBdpYu
 
 ## Projects
 
-View my portfolio here! adam.somewhat.ca
+View my portfolio [here](https://adam.somewhat.ca)!
 
 ### Connect with Me
 Feel free to connect with me through any of the following platforms: \
