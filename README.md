@@ -1,9 +1,5 @@
 ## Introduction
-My name is Adam, and I'm a student at 42Quebec. 
-I'm an aspiring developer.
-In this README, you'll find an overview of my background, my technical skills, and my professional goals. 
-
-Let's get started!
+Im Adam, R&D Engineer - Blockchain uses for Data Integrity, for 3IPK. 
 
 Resume Download [Link](https://www.adam.somewhat.ca/Adam_Cv_25.pdf)
 
