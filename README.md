@@ -5,7 +5,7 @@ In this README, you'll find an overview of my background, my technical skills, a
 
 Let's get started!
 
-CV: https://docs.google.com/document/d/1od-1swFhU7LiszXiIUD2TB3_aTWGSY0hf5SBdpYuI2M/edit?usp=drivesdk
+Resume Download [Link](https://www.adam.somewhat.ca/Adam_Cv_25.pdf)
 
 ## Technical Skills
 ![C](https://img.shields.io/badge/-C-444444?style=for-the-badge&logo=c)
