@@ -22,7 +22,7 @@ Resume Download [Link](https://www.adam.somewhat.ca/Adam_Cv_25.pdf)
 ![Django](https://img.shields.io/badge/-Django-444444?style=for-the-badge&logo=django&logoColor=White)
 ![React](https://img.shields.io/badge/-React-444444?style=for-the-badge&logo=react)
 ### CSS frameworks
-![Tailwind](https://img.shields.io/badge/Bootstrap-444444?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-444444?style=for-the-badge&logo=tailwind&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-444444?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 ## Projects
