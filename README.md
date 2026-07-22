@@ -33,5 +33,5 @@ View my portfolio [here](https://adam.somewhat.ca)!
 Feel free to connect with me through any of the following platforms: \
 ![asd](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) 
 [ast-jean](https://www.linkedin.com/in/ast-jean/) \
-Email: adam.stjean.lejeune@gmail.com
+
 
