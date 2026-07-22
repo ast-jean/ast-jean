@@ -1,5 +1,5 @@
 ## Introduction
-Im Adam, R&D Engineer - Blockchain uses for Data Integrity, for 3IPK. 
+Im Adam, Freelance R&D Engineer - Blockchain. 
 
 
 ## Technical Skills
