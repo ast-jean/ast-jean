@@ -1,7 +1,6 @@
 ## Introduction
 Im Adam, R&D Engineer - Blockchain uses for Data Integrity, for 3IPK. 
 
-Resume Download [Link](https://www.adam.somewhat.ca/Adam_Cv_25.pdf)
 
 ## Technical Skills
 ![C](https://img.shields.io/badge/-C-444444?style=for-the-badge&logo=c)
